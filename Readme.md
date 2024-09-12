@@ -4,7 +4,7 @@ EXECUTION INSTRUCTIONS:
 3.run main.py to run the RL agent
 
 
-# Traffic RIder
+# Traffic Rider
 > Traffic Rider is an arcade game developed using pygame package of Python. In this game, player make its way through the traffic on highway. Score increase as player overtakes a vehicle successfully.If player crash with another vehicle then game will over. With increase in score,level increases and so the speed of player's car.
 
 ## Controls for user:
